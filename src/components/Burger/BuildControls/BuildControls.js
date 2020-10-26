@@ -7,7 +7,7 @@ const controls = [
   { label: 'Salad', type: 'salad' },
   { label: 'Tomato', type: 'tomato' },
   { label: 'Cheese', type: 'cheese' },
-  { label: 'Vegan Steak', type: 'veganSteak' },
+  { label: 'Steak', type: 'steak' },
   { label: 'Bacon', type: 'bacon' },
 ];
 
